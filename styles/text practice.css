@@ -1,0 +1,320 @@
+p{
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.video-title{
+ font-weight: bold;
+ font-size: 18px;
+ width: 280px;
+line-height: 24px;
+margin-bottom: 5px;
+}
+
+.video-stats{
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.video-author{
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.video-description{
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 10px;
+}
+
+.holidy-shopping{
+background-color: rgb(227, 65, 64);
+color: rgb(255, 255, 255);
+font-size: 18px;
+text-align: center;
+padding: 18px 30px;
+}
+
+.holiday-specials{
+  color: white;
+  text-decoration: none;
+}
+
+.holiday-specials:hover{
+  text-decoration: underline;
+}
+
+.tahoma{
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.sale{
+  font-family: arial;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 20px
+}
+
+.sales-end{
+  color: red;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.course{
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+  line-height: 22px;
+}
+
+.subtitle{
+  font-size: 18px;
+  font-weight: normal;
+  color: grey;
+}
+
+.course-description{
+  font-family: verdana;
+  font-size: 18px;  
+  width: 350px;
+  margin-bottom: 20px;
+}
+
+#apple-shop{
+  font-family: arial;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+}
+
+#see{
+  font-weight: normal;
+  font-size: 18px;
+}
+
+#learn-more{
+  text-align: center;
+}
+
+#apple-link{
+  text-decoration: none;
+  color: rgb(0, 113, 227);
+}
+
+.product-page{
+  text-align: center;
+  line-height: 30px;
+  font-family: Arial;
+  margin-top: 10px;
+}
+.heading{
+  font-size: 15px;
+  color: rgb(182, 68, 0);
+}
+
+.product{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+.product-desc{
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+.price{
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+
+}
+
+.buy{
+  background:rgb(0, 113, 227);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  padding: 10px 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.buy-link{
+  text-decoration: none;
+  color: white;
+}
+.stock{
+  font-family: Arial;
+  line-height: 30px;
+  margin-top: 10px;
+}
+
+.market-price{
+font-size: 36px;
+font-weight: bold;
+color: rgb(31, 31, 31);
+font-weight: 400;
+
+}
+
+.market-currency{
+  font-size: 16px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.62);
+}
+
+.market-change{
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 24px;
+  color: rgb(24, 128, 56)
+}
+
+.after-hours{
+  font-size: 16px;
+  font-weight: bold;;
+  color: rgba(0, 0, 0, 0.62);
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.loss{
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(217, 48, 37);
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.chirp{
+  font-family: arial;
+}
+
+.username{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+  margin-top: 20px;
+}
+
+.user-handle{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: rgb(158, 158, 158);
+  margin-top: 20px;
+}
+
+.text-entry{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: black;
+  margin-top: 20px;
+  width: 570px;
+}
+
+#chp_it{
+  text-decoration: none;
+  color: rgb(41, 118,211);
+}
+
+.search-bar{
+  margin-top: 20px;
+  padding: 12px 15px;
+  border-radius: 7px;
+  border-color: grey;
+  border-width: 1px;
+}
+
+.search-google{
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 12px 0px;
+  padding-left: 8px;
+  padding-right: 100px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 1px 1px 1px 1px rgb(0 0 0 / 5%);
+}
+
+.signup{
+  margin-top: 20px;
+  font-size: 16px;
+  color: rgb(48, 47, 47);
+}
+
+.signup p{
+  margin-bottom: 10px;
+}
+
+.input-email{
+  font-size: 16px;
+  width: 390px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(100, 100, 100);
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.policy-statement{
+  margin-top: 10px;
+  font-size: 16px;
+  color: rgb(48, 47, 47);
+}
+
+.aj{
+  padding: 18px 145px;
+  border-radius: 30px;
+  border: none;
+  background-color: rgb(10, 102, 194);
+  color: white;
+  font-size: 20px;
+}
+
+
+.tweetbox{
+  vertical-align: middle;
+  margin-top: 15px;
+}
+#profile{
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 25px;
+  margin-right: 5px;
+}
+
+.tweeter{
+  border: none ;
+  font-size: 15px;
+  color: rgb(34, 34, 34);
+}
+
+.tweet-button{
+  background:#08a0e9;
+  color: white;
+  border: none;
+  border-radius: 18px;
+  padding: 10px 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}

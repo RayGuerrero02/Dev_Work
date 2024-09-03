@@ -16,11 +16,18 @@ p{
   padding: 1px 0px;
   display: block;
 }
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+
+
+}
 .thumbnail{
   border-radius: 15px;
   transition: border-radius .25s;
-  width: 350px;
-  display: block;
+  width: 100%;
 }
 
 .thumbnail-row{
@@ -40,13 +47,6 @@ margin-bottom: 12px;
 .profile-picture{
   width: 75%; 
   border-radius: 50px;
-}
-
-.video-preview{
-display: inline-block;
-margin-right: 15px;
-width: 350px;
-vertical-align: top;
 }
 
 .video-info-grid{

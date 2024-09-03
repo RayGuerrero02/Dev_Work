@@ -54,15 +54,23 @@ margin-bottom: 12px;
   grid-template-columns: 50px 1fr;
 }
 .video-info{
-  width: 200px;
+  width: 100%;
+  max-width: 80%;
 }
 .video-title{
   margin-top: 0;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 1rem;
   color: rgb(15, 15, 15);
-  line-height: 20px;
   margin-bottom: 12px;
+  text-overflow: ellipsis;
+  line-height: 22px;
+  max-height: 44px;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  display: -webkit-box;           /* Use a flexible box layout */
+  -webkit-box-orient: vertical;   /* Arrange children vertically */
+  -webkit-line-clamp: 2;
 }
 
 .video-author, .video-stats{

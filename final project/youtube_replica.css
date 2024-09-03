@@ -33,13 +33,12 @@ margin-bottom: 12px;
 }
 
 .channel-picture{
-  display: inline-block;
   width: 50px;
   vertical-align: top;
 }
 
 .profile-picture{
-  width: 75%;
+  width: 75%; 
   border-radius: 50px;
 }
 
@@ -50,8 +49,11 @@ width: 350px;
 vertical-align: top;
 }
 
+.video-info-grid{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
 .video-info{
-  display: inline-block;
   width: 200px;
 }
 .video-title{

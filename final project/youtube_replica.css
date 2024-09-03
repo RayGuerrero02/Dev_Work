@@ -18,7 +18,7 @@ p{
 }
 .thumbnail{
   border-radius: 15px;
-  transition: border-radius .15s;
+  transition: border-radius .25s;
   width: 350px;
   display: block;
 }

@@ -52,11 +52,10 @@ margin-bottom: 12px;
   text-overflow: ellipsis;
   line-height: 22px;
   max-height: 44px;
-  overflow-y: hidden;
-  overflow-x: hidden;
   display: -webkit-box;           /* Use a flexible box layout */
   -webkit-box-orient: vertical;   /* Arrange children vertically */
   -webkit-line-clamp: 2;
+  overflow: hidden;
 }
 
 .video-author, .video-stats{

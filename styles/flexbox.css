@@ -1,0 +1,99 @@
+body{
+ font-family: EB-Garamond, sans-serif, Arial;
+}
+
+.container-flexbox{
+  display: flex;
+  flex-direction: row;
+}
+
+.container-flexbox2{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.container-flexbox3{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: center;
+
+}
+
+.container-flexbox4{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: space-between;
+}
+
+
+.container-flexbox5{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container1{
+  background-color:lightblue;
+}
+
+.container2{
+  background-color: lightpink;
+}
+
+.container3{
+  background-color:lightblue;
+  width: 100px;
+}
+
+.container4{
+  background-color: lightpink;
+  flex: 1;
+}
+
+.container5{
+  background-color: lightblue;
+  width: 100px;
+}
+
+.container6{
+  background-color:lightgreen;
+  flex: 1;
+}
+
+.container7{
+  background-color: lightpink;
+  flex: 2;
+}
+
+
+.container8{
+  background-color: lightblue;
+  width: 100px;
+}
+
+.container9{
+  background-color:lightgreen;
+  width: 100px;
+}
+
+.container10{
+  background-color: lightpink;
+  width: 100px;
+}

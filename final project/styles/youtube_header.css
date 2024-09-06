@@ -4,6 +4,12 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(255, 255, 255);
+
 }
 
 .left-section{
@@ -16,7 +22,7 @@
 .hamburger-menu{
   height: 24px;
   width: 24px;
-  padding-left: 3px;
+  padding-left:2px;
 }
 
 .hamburger-menu-button{
@@ -95,6 +101,7 @@
   border-top-right-radius: 50px;
   border-bottom-right-radius: 50px;
   margin: 0px;
+  cursor: pointer;
 }
 
 .search-button:hover{
@@ -117,6 +124,7 @@
   width: 40px;
   border-radius: 20px;
   border: none;
+  cursor: pointer;
 }
 
 .voice-search-button:hover{
@@ -226,6 +234,16 @@
   align-items: center;
   justify-content: space-between;
   box-sizing: border-box;
+  height: 56px;
+  position: fixed;
+  top: 56px;
+  left: 0;
+  right: 0;
+  background-color: rgb(255, 255, 255);
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 100px;
+  padding-right: 24px;
 }
 
 .sub-head-button{

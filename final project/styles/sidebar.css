@@ -1,0 +1,129 @@
+.sidebar{
+  color: white;
+  position: fixed;
+  top: 65px;
+  left: 0;
+  height: 205px;
+  width: 72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.home-button{
+  height: 64px;
+  width: 64px;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  padding-top: 16px;
+  padding-bottom: 14px;
+}
+
+.home-button:hover{
+  background-color: rgb(204, 204, 204);
+  border-radius: 8px;
+}
+
+.home-button:active{
+  box-shadow: inset 60px 60px 1px rgba(0,0,0,0.1);
+}
+
+
+.home-image{
+  height: 24px;
+  width: 24px;
+}
+
+.shorts-button{
+  height: 64px;
+  width: 64px;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  padding-top: 16px;
+  padding-bottom: 14px;
+}
+
+.shorts-button:hover{
+  background-color: rgb(204, 204, 204);
+  border-radius: 8px;
+}
+
+.shorts-button:active{
+  box-shadow: inset 60px 60px 1px rgba(0,0,0,0.1);
+}
+
+
+.shorts-image{
+  height: 24px;
+  width: 24px;
+}
+
+.subscriptions-button{
+  height: 64px;
+  width: 64px;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  padding-top: 16px;
+  padding-bottom: 14px;
+}
+
+.subscriptions-button:hover{
+  background-color: rgb(204, 204, 204);
+  border-radius: 8px;
+}
+
+.subscriptions-button:active{
+  box-shadow: inset 60px 60px 1px rgba(0,0,0,0.1);
+}
+.subscriptions-image{
+  height: 24px;
+  width: 24px;
+}
+
+.you-button{
+  height: 64px;
+  width: 64px;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  padding-top: 16px;
+  padding-bottom: 14px;
+}
+
+.you-button:hover{
+  background-color: rgb(204, 204, 204);
+  border-radius: 8px;
+}
+
+.you-button:active{
+  box-shadow: inset 60px 60px 1px rgba(0,0,0,0.1);
+}
+
+
+.you-image{
+  height: 24px;
+  width: 24px;
+}

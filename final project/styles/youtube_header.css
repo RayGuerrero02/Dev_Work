@@ -63,10 +63,6 @@
   display: flex;
   gap: 0px;
   flex: 1;
-.middle-left-section{
-  display: flex;
-  gap: 0px;
-  flex: 1;
 }
 
 #searchbar{

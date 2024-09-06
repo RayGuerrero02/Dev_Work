@@ -209,6 +209,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  box-sizing: border-box;
 }
 
 .sub-head-button{
@@ -229,6 +230,8 @@
   margin-left: 0px;
   transition: box-shadow .15s;
   cursor: pointer;
+  min-width: 12px;
+  white-space: nowrap;
 }
 
 .sub-head-button:hover{

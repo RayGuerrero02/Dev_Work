@@ -4,6 +4,32 @@
   column-gap: 16px;
   row-gap: 40px;
 }
+
+@media(max-width: 659px){
+  .video-grid{
+    grid-template-columns: 1fr;
+  }
+}
+
+
+@media(min-width: 660px) and (max-width: 1080px) {
+  .video-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media(min-width: 1081px) and (max-width: 1419px){
+  .video-grid{
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+
+@media(min-width: 1420px){
+  .video-grid{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
 .thumbnail{
   border-radius: 15px;
   transition: border-radius .25s;

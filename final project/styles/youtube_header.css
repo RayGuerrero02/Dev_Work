@@ -10,6 +10,7 @@
   left: 0;
   right: 0;
   background-color: rgb(255, 255, 255);
+  z-index: 100;
 
 }
 
@@ -182,6 +183,9 @@
 .notifications{
   height: 24px;
   width: 24px;
+  position: absolute;
+  top: 8px;
+  right: 8px;
 }
 
 .notifications-button{
@@ -193,6 +197,7 @@
   padding: 0px;
   cursor: pointer;
   transition: background-color .15s;
+  position: relative;
 }
 .notifications-button:hover{
   background-color:rgb(204, 204, 204);
@@ -204,6 +209,19 @@
   border-color: rgb(204, 204, 204);
 }
 
+.notification-count{
+  position: absolute;
+  top: 8px;
+  right: 0px;
+  background-color: rgb(204, 0, 0);
+  color: rgb(255, 255, 255);
+  height: 16px;
+  width: 13.5px;
+  padding: 0px 4px;
+  border-radius: 8px;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
 .user-picture{
   height: 32px;
   width: 32px;
@@ -252,6 +270,7 @@
   padding-bottom: 0;
   padding-left: 100px;
   padding-right: 24px;
+  z-index: 100;
 }
 
 .sub-head-button{

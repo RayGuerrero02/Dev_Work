@@ -12,11 +12,24 @@
 
 .thumbnail-row{
 margin-bottom: 12px;
+position: relative;
 }
 
 .thumbnail:hover{
   border-radius: 0px;
   cursor: pointer;
+}
+
+.video-time{
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  font-family: Roboto;
+  font-size: 12px;
+  border-radius: 3px;
+  padding: 1px 4px;
 }
 
 .channel-picture{

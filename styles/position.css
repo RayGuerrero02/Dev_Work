@@ -6,6 +6,7 @@
   right: 0px;
   left: 0px;
   height: 40px;
+  z-index: 12; /*determines what element will display on top compared to others, the higher the z-index, the higher the priority. Default is 0*/
 }
 
 body{
@@ -24,6 +25,7 @@ body{
   background-color: lightpink;
   height: 200px;
   width: 200px;
+  position: relative;
 }
 
 .sidebar{
@@ -34,4 +36,28 @@ body{
   left: 0;
   height: 400px;
   width: 60px;
+}
+
+.absolute{
+  position: absolute;
+  background-color: red;
+  color: white;
+  left: 100px;
+  top: 100px;
+}
+
+.sidebar-absolute{
+  position: absolute; 
+  background-color: orange;
+  color: white;
+  top: 0;
+  right: 0;
+}
+
+.div2-absolute{
+  position: absolute; 
+  background-color: rgb(0, 0, 0);
+  color: white;
+  bottom: 10px;
+  right: 10px;
 }

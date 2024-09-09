@@ -68,6 +68,7 @@ position: relative;
 .video-author, .video-stats{
   font-size: 14px;
   color: rgb(96, 96, 96);
+  white-space: nowrap;
 }
 
 .video-author{

@@ -1,31 +1,11 @@
-<h1>Hi, I'm Ray! <br/><a href="https://github.com/RayGuerrero02/Dev_Work/">Programmer</a> and <a href="https://www.linkedin.com/in/raymond-guerrero">Cybersecurity Professional</a>.</h1>
+Hey everyone!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+I'm Raymond Guerrero, I go by Ray. I'm new to software development and currently going through a software development intership
+with The KYO Group. Over the next 6 months I will be learning HTML / CSS / Javascript and more as I look forwards to a new career
+oustide of the military. 
 
-- <b>Youtube Landing Page Clone</b>
-  - [Personal Landing Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/final%20project)
-- <b>HTML Practice(Flexbox, Grid, Website, Buttons)</b>
-  - [HTML](https://github.com/RayGuerrero02/Dev_Work/tree/master/html) 
-- <b>CSS</b>
-  - [CSS Practice](https://github.com/RayGuerrero02/Dev_Work/tree/master/styles)
+I am still learning, it's true. I don't have as much experience as some people do in this field, what I do have though is a decade long career in  fast-paced and dynamic environments through my career in the United States Marine Corps ranging from being a node site coordinator for DISA to leading cross-functional teams in cyber security analyst roles and cyber security consulting. These environments have helped me build resilience, courage, and creativity. They have also helped me learn to lead others and foster a team revolving around inclusion, selflessness, and collaboration
 
-<h2> 🤳 Connect with me:</h2>
+All I ask if for a chance to prove that I can accomplish whatever goal you have, whatever bar you set, I will get there. Thank you for taking the time to visit my portfolio and please feel free to reach out and ask questions about my journey in software development or my career in the military. 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/raymond-guerrero/
-
-<!--
-**RayGuerrero02/Dev_Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Ray Guerrero

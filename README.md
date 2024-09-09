@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Youtube Landing Page Clone</b>
-  - [Personal Landing Page](https://github.com/RayGuerrero02/Dev_Work/tree/master/final%20project)
+  - [Personal Landing Page Project](https://github.com/RayGuerrero02/Dev_Work/tree/master/final%20project)
 - <b>HTML Practice(Flexbox, Grid, Website, Buttons)</b>
   - [HTML](https://github.com/RayGuerrero02/Dev_Work/tree/master/html) 
 - <b>CSS</b>

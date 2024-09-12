@@ -3,11 +3,12 @@
     flex-direction: column;
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-size: 14px;
-    justify-content: center;
+    justify-content: flex-end;
     height: 95px;
     padding: 0 20px;
     background-color: rgb(241, 241, 241);
     margin: 0;
+    
   }
   
   .topfooter{

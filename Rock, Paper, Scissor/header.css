@@ -1,0 +1,13 @@
+.header{
+  background-color: gold;
+  color: black;
+  display: flex;
+  flex: row;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  width: 100%;
+  padding: 6px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
